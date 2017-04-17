@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/container"
+    android:name="com.example.android.sunshinev1.DetailActivityFragment"
+    tools:layout="@layout/fragment_detail" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MergeRootFrame"
+    android:paddingTop="94dp"
+    >
+
+
+</FrameLayout>
+
+    <!--tools:context="com.example.android.TheWeather.app.DetailActivity"-->
